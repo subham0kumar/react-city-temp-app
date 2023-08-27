@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-city-temp-app/static/css/main.eaf2822b.css",
+    "main.js": "/react-city-temp-app/static/js/main.cbde8c7d.js",
+    "index.html": "/react-city-temp-app/index.html",
+    "main.eaf2822b.css.map": "/react-city-temp-app/static/css/main.eaf2822b.css.map",
+    "main.cbde8c7d.js.map": "/react-city-temp-app/static/js/main.cbde8c7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf2822b.css",
+    "static/js/main.cbde8c7d.js"
+  ]
+}
